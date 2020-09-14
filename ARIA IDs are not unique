@@ -1,0 +1,2 @@
+I have installed Osano open source cookie consent which is working well, lighthouse audit under accessability score is 85% this is due to ARIA IDs are not unique:  span#cookieconsent:desc.cc-message,
+I am trying to coreect this but I believ it is in the css file, how do I resolve this please.
